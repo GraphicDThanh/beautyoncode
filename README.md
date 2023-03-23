@@ -13,13 +13,16 @@ Các chủ đề chính: lập trình, làm blog, phát triển bản thân và 
 Blog được sáng tạo bởi Nguyễn Diễm Thanh, một:
 
 – web developer yêu code
+
 – đam mê phát triển bản thân
+
 – yêu thiên nhiên và tò mò về cuộc sống. 
 
 ## Về tác giả
 Mình là Thanh Nguyễn, Web Developer tại [AgilityIO](https://www.agilityio.com/) với 9 năm kinh nghiệm lập trình Web:
 
 – 4 năm làm frontend developer
+
 – 5 năm làm backend developer
 
 Hiện tại với mình lập trình vô cùng thú vị và vẫn đang cố gắng học mỗi ngày về lĩnh vực này.
